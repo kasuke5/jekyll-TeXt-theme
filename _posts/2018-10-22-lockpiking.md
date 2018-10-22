@@ -64,7 +64,7 @@ C’est ce que l’on voit le plus souvent dans les films ; la plupart du temps 
 
 Des défauts de fabrication transforment une serrure à 5 goupilles en 5 serrures à 1 goupille… Le meilleur moyen pour comprendre comment ça marche, à part essayer, est de regarder cette vidéo qui illustre bien le principe :
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ac4Btp44lsg/0.jpg)](https://youtu.be/ac4Btp44lsg)
+<div>{%- include extensions/youtube.html id='ac4Btp44lsg' -%}</div>
 
 Vous trouverez sur Youtube des milliers de vidéos avec les mots-clés « crochetage » ou « lockpicking », et le matériel est en vente libre sur une dizaine de sites Internet.
 
@@ -88,7 +88,7 @@ La technique du pickgun est un peu plus barbare mais utilise le même principe d
 
 Voici une démo de la technique du pickgun en vidéo :
 
-[![](http://img.youtube.com/vi/Yjvo3HSF5ag/0.jpg)](https://www.youtube.com/watch?v=Yjvo3HSF5ag)
+<div>{%- include extensions/youtube.html id='Yjvo3HSF5ag' -%}</div>
 
 Le risque sur des serrures haut de gamme existe mais est plutôt négligeable dans la pratique. Pour plus d’infos sur les bumpkeys, je vous invite à lire le [white paper](http://toool.nl/images/7/75/Bumping.pdf) diffusé par [Barry Wels](http://blackbag.nl) de [l’association TOOOL](http://toool.nl/).
 
@@ -105,7 +105,7 @@ Celles-ci apparaissent précisément là où il faut limer. Cela a pour effet de
 
 Un bon exemple d’impression impressionnante 😉 :
 
-https://www.youtube.com/embed/Bj9KEmLWRek
+<div>{%- include extensions/youtube.html id='Bj9KEmLWRek' -%}</div>
 
 Avec cette technique il est possible de fabriquer une clé en quelques heures voire quelques minutes, mais surtout en périodes interrompues. Un attaquant peut alors « travailler » sur une serrure par bribes de 20 secondes à chaque fois, et donc ne jamais se faire remarquer.
 
