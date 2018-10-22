@@ -55,6 +55,7 @@ TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highl
 ## Documentation
 
 ### Start
+- sur mon serveur, démarrer le bordel comme ça : bundle exec jekyll serve --host 0.0.0.0
 
 - [Quick Start](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
 - [Update form 1.x to 2.x](https://tianqi.name/jekyll-TeXt-theme/docs/en/update-form-1-to-2)
